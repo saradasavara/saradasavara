@@ -135,7 +135,7 @@ CGPA: 7.59
 Update the links below with your profiles. The portfolio website is optional.
 -->
 <p align="left">
-  <a href="https://www.linkedin.com/in/[Your LinkedIn Username]" target="_blank">
+  <a href="https://www.linkedin.com/in/savarasarada" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /> LinkedIn
   </a>
   &nbsp;|&nbsp;
