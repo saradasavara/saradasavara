@@ -6,8 +6,8 @@ Edit this file to personalize your profile for recruiters and hiring managers.
 # 👋 Hi there, I'm SAVARA SARADA!
 
 <!-- Elevator Pitch -->
-Aspiring Java Full Stack Developer | Passionate about backend development, cloud technologies, and building scalable microservices.  
-Driven to create clean, efficient solutions and eager to make an impact in the tech world.
+💻 I'm a Passionate about **Java Full Stack Developer** | Java,Spring Boot,TEST APIs,Hibernate,JPA,HTML,CSS,JavaScript,React
+MySQL,MongoDB,GIT,GITHUB,VSCode | Efficient solutions and eager to make an impact in the tech world.
 
 ---
 
@@ -18,11 +18,13 @@ I am actively seeking full-time opportunities to learn, contribute, and grow as 
 
 ---
 
-## 🚀 Tech Stack Showcase
-<!-- 
-Update icons and technologies as needed. 
-You can find more icons at https://devicon.dev/
--->
+## 🚀 💼 Tech Stack:
+- Backend: Java, Spring Boot, REST APIs, Hibernate, JPA  
+- Frontend: HTML, CSS, JavaScript, React  
+- Database: MySQL, MongoDB  
+- Tools: Git, GitHub, Postman, IntelliJ IDEA, VS Code  
+
+
 
 <table>
   <tr>
